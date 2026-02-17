@@ -1,5 +1,11 @@
 # Cristian Moscoso Muñoz
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Django](https://img.shields.io/badge/Django-Backend-success)
+![Automation](https://img.shields.io/badge/Automation-Advanced-orange)
+![AI](https://img.shields.io/badge/AI-Solutions-purple)
+![Data](https://img.shields.io/badge/Data-Analytics-green)
+
 🎓 Director de Carrera de las áreas de Informática, ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica en Inacap Sede Arica
 💻 Full Stack Developer  
 🤖 Automation & AI Specialist  
