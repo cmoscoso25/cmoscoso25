@@ -10,9 +10,9 @@ Desarrollo soluciones tecnológicas para educación, automatización de procesos
 
 ## Tecnologías
 
-**Backend:** Python, Django, Node.js  
+**Backend:** Python, Django, Node.js, PHP, ASPx  
 **Frontend:** JavaScript, React  
-**Bases de datos:** SQLite, MongoDB  
+**Bases de datos:** SQLite, MongoDB, MySql, SQL Server  
 **Automatización:** n8n, APIs, Web Services  
 **Analítica & Marketing:** Google Ads, Analytics, Data Dashboards
 
