@@ -6,7 +6,7 @@
 ![AI](https://img.shields.io/badge/AI-Solutions-purple)
 ![Data](https://img.shields.io/badge/Data-Analytics-green)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoscoso25&show_icons=true&theme=tokyonight)
 
