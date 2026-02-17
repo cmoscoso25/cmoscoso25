@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Cristian Moscoso Muñoz
 
-<!--
-**cmoscoso25/cmoscoso25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Director de Carrera de las áreas de Informática, ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica 
+💻 Full Stack Developer  
+🤖 Automation & AI Specialist  
 
-Here are some ideas to get you started:
+Desarrollo soluciones tecnológicas para educación, automatización de procesos y analítica de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+Python • Django • JavaScript • React  
+SQLite • MongoDB • APIs • n8n  
+Google Ads • Analytics • Data Dashboards  
+
+---
+
+## ⭐ Proyectos Destacados
+🔹 MGD Coordinadores  
+🔹 Diagnóstico Empresarial con IA  
+🔹 Automatización de procesos  
+🔹 Sistemas de analítica académica  
+
+---
+
+## 🌎 Chile
