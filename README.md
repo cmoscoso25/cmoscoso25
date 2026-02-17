@@ -6,6 +6,13 @@
 ![AI](https://img.shields.io/badge/AI-Solutions-purple)
 ![Data](https://img.shields.io/badge/Data-Analytics-green)
 
+## GitHub Stats
+
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoscoso25&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoscoso25&layout=compact&theme=tokyonight)
+
+
 🎓 Director de Carrera de las áreas de Informática, ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica en Inacap Sede Arica
 💻 Full Stack Developer  
 🤖 Automation & AI Specialist  
