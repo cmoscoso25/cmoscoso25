@@ -1,6 +1,6 @@
 # Cristian Moscoso Muñoz
 
-🎓 Director de Carrera de las áreas de Informática, ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica 
+🎓 Director de Carrera de las áreas de Informática, ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica en Inacap Sede Arica
 💻 Full Stack Developer  
 🤖 Automation & AI Specialist  
 
